@@ -32,3 +32,7 @@ if '%errorlevel%' NEQ '0' (
 Powershell.exe -executionpolicy remotesigned -File  installChoco.ps1
 
 pause
+
+echo Installation will now begin...
+
+Powershell.exe -executionpolicy remotesigned -File installApps.ps1
