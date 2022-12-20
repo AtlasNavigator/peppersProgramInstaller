@@ -29,3 +29,6 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :-------------------------------------- 
 
+Powershell.exe -executionpolicy remotesigned -File  installChoco.ps1
+
+pause
