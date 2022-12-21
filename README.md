@@ -1,12 +1,11 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ![Supported Windows](https://img.shields.io/badge/Windows-10%2F11-informational)
 
-
+![Logo](https://github.com/AtlasNavigator/peppersProgramInstaller/blob/main/logo.png?raw=true)
 # The Peppers Program Installer
 
 
 An incredibly simple program installation sensantion, creation of Peppers Computer & Co.
-![Logo](https://github.com/AtlasNavigator/peppersProgramInstaller/blob/main/logo.png?raw=true)
 
 
 ## Features
