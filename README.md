@@ -31,6 +31,8 @@ Once start.bat is exectued, it will first begin by installing the Chocolatey pac
 
 Contributions are always welcome!
 
+Please remember to abide by our [code of conduct](code_of_conduct.md).
+
 
 ## Credits
 
